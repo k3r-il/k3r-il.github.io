@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+  #mainNav.navbar-shrink {
+    border-bottom: 1px solid rgba(45,45,45,.1);
+    background-color: rgba(0,0,0,0.7);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+  }
+}
+
